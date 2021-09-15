@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iagoa\\OneDrive\\Área de Trabalho\\api\\api.csproj": {}
+    "C:\\Users\\iagoa\\OneDrive\\Área de Trabalho\\api\\ProjetoApi\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iagoa\\OneDrive\\Área de Trabalho\\api\\api.csproj": {
+    "C:\\Users\\iagoa\\OneDrive\\Área de Trabalho\\api\\ProjetoApi\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iagoa\\OneDrive\\Área de Trabalho\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\iagoa\\OneDrive\\Área de Trabalho\\api\\ProjetoApi\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\iagoa\\OneDrive\\Área de Trabalho\\api\\api.csproj",
+        "projectPath": "C:\\Users\\iagoa\\OneDrive\\Área de Trabalho\\api\\ProjetoApi\\api.csproj",
         "packagesPath": "C:\\Users\\iagoa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iagoa\\OneDrive\\Área de Trabalho\\api\\obj\\",
+        "outputPath": "C:\\Users\\iagoa\\OneDrive\\Área de Trabalho\\api\\ProjetoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iagoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
